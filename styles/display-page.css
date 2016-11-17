@@ -1,0 +1,56 @@
+main {
+
+	padding: 30px;
+	width: 800px;
+	height: 500px;
+}
+
+.topboxes {
+	display: inline-block;
+	width: 800px;
+	height: 200px;
+
+}
+
+.upgreenbox {
+	background-color: green;
+	width: 50%;
+	height: 40%;
+	border: black solid 1px;
+}
+
+.upbluebox {
+	background-color: blue;
+	width: 50%;
+	height: 40%;
+	border: black solid 1px;
+}
+
+.bottomboxes {
+	display: inline-block;
+	width: 800px;
+	height: 300px;
+
+}
+
+
+.downgreybox {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+	border: black solid 1px;
+}
+
+.downblackbox {
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+	border: black solid 1px;
+}
+
+.downyellowbox {
+	background-color: yellow;
+	width: 33.33%;
+	height: 300px;
+	border: black solid 1px;
+}
